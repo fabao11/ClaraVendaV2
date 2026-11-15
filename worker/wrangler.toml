@@ -1,0 +1,7 @@
+name = "venda-clara"
+main = "index.js"
+compatibility_date = "2024-09-01"
+
+[vars]
+# Modelo usado pelo servidor. Pode ser alterado aqui (ex.: um modelo mais barato).
+MODELO = "claude-sonnet-5-5"
